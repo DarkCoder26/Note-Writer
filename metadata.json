@@ -1,0 +1,6 @@
+{
+  "name": "DocEditor",
+  "description": "A fully functional Word-style document editor with rich formatting, tables, images, and export to DOCX, PDF, HTML, TXT, and Markdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
